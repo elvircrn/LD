@@ -19,5 +19,4 @@ architecture arch_tb_shifter of tb_shifter is
   end component;
 
 begin
-
 end arch_tb_shifter ; -- arch_tb_shifter
